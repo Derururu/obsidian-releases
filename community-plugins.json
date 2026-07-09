@@ -38743,5 +38743,12 @@
     "author": "MapleCheng",
     "description": "Move selected files and folders to a configurable mirror archive root while preserving their original vault path. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maplecheng/obsidian-mirror-archive"
+  },
+  {
+    "id": "cjk-pdf-export-fix",
+    "name": "CJK PDF Export Fix",
+              "author": "Derururu",
+              "description": "Fixes Chinese/CJK characters disappearing from Obsidian's buiexport on macOS.",
+              "repo": "Derururu/exportincjk"
   }
 ]
